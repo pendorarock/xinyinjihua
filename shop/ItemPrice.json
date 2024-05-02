@@ -1,6 +1,47 @@
-{
-  "item00":{
-  	"price":48,
-  	"sale_price":24
+[
+  {
+    "id": 115,
+    "price": 48,
+    "sale_price": 48
+  },
+  {
+    "id": 116,
+    "price": 48,
+    "sale_price": 48
+  },
+  {
+    "id": 117,
+    "price": 48,
+    "sale_price": 48
+  },
+  {
+    "id": 118,
+    "price": 48,
+    "sale_price": 48
+  },
+  {
+    "id": 119,
+    "price": 15,
+    "sale_price": 15
+  },
+  {
+    "id": 120,
+    "price": 6,
+    "sale_price": 6
+  },
+  {
+    "id": 121,
+    "price": 6,
+    "sale_price": 6
+  },
+  {
+    "id": 122,
+    "price": 6,
+    "sale_price": 6
+  },
+  {
+    "id": 123,
+    "price": 6,
+    "sale_price": 6
   }
-}
+]
