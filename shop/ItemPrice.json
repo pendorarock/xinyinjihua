@@ -1,21 +1,21 @@
 {
-  "saletime": true,
+  "saletime": false,
   "limitedtime": "2024/6/03 00:00:00",
   "priceinfo": [
     {
       "id": 115,
       "price": 48,
-      "sale_price": 24
+      "sale_price": 48
     },
     {
       "id": 116,
       "price": 48,
-      "sale_price": 30
+      "sale_price": 48
     },
     {
       "id": 117,
       "price": 48,
-      "sale_price": 40
+      "sale_price": 48
     },
     {
       "id": 118,
@@ -44,6 +44,56 @@
     },
     {
       "id": 123,
+      "price": 6,
+      "sale_price": 6
+    },
+    {
+      "id": 165,
+      "price": 6,
+      "sale_price": 6
+    },
+    {
+      "id": 166,
+      "price": 6,
+      "sale_price": 6
+    },
+    {
+      "id": 167,
+      "price": 6,
+      "sale_price": 6
+    },
+    {
+      "id": 168,
+      "price": 6,
+      "sale_price": 6
+    },
+    {
+      "id": 169,
+      "price": 6,
+      "sale_price": 6
+    },
+    {
+      "id": 170,
+      "price": 6,
+      "sale_price": 6
+    },
+    {
+      "id": 186,
+      "price": 6,
+      "sale_price": 6
+    },
+    {
+      "id": 187,
+      "price": 6,
+      "sale_price": 6
+    },
+    {
+      "id": 188,
+      "price": 6,
+      "sale_price": 6
+    },
+    {
+      "id": 189,
       "price": 6,
       "sale_price": 6
     }
