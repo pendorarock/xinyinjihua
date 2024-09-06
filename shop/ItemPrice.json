@@ -96,6 +96,26 @@
       "id": 189,
       "price": 6,
       "sale_price": 6
+    },
+    {
+      "id": 212,
+      "price": 6,
+      "sale_price": 6
+    },
+    {
+      "id": 213,
+      "price": 6,
+      "sale_price": 6
+    },
+    {
+      "id": 214,
+      "price": 6,
+      "sale_price": 6
+    },
+    {
+      "id": 215,
+      "price": 6,
+      "sale_price": 6
     }
   ]
 }
