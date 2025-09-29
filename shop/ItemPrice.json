@@ -1,16 +1,16 @@
 {
-  "saletime": false,
-  "limitedtime": "2025/2/10 00:00:00",
+  "saletime": true,
+  "limitedtime": "2025/10/13 00:00:00",
   "priceinfo": [
     {
       "id": 115,
       "price": 48,
-      "sale_price": 48
+      "sale_price": 24
     },
     {
       "id": 116,
       "price": 48,
-      "sale_price": 48
+      "sale_price": 24
     },
     {
       "id": 117,
